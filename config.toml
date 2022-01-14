@@ -20,6 +20,11 @@ paginate = 8
     name = "About"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+    identifier = "employment"
+    name = "Employment"
+    url = "/employment/"
+    weight = 3
 
 [params]
   author = "Dave Kreymerman"
@@ -33,6 +38,14 @@ paginate = 8
     icon = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/david-kreymerman-b8662a11/"
+  [[params.social]]
+    icon = "mail"
+    name = "E-Mail"
+    url = "mailto:david.kreymerman@live.com"
+  [[params.social]]
+    icon = "send"
+    name = "Telegram"
+    url = "https://t.me/davokr"
 
   # Default theme
   #[params.style]
@@ -51,9 +64,9 @@ paginate = 8
   #  primaryColor = "#dad865"
 
   # Red theme
-  #[params.style]
-  #  darkestColor = "#d35050"
-  #  darkColor = "#212121"
-  #  lightColor = "#d6d6d6"
-  #  lightestColor = "#d3d3d3"
-  #  primaryColor = "#ffffff"
+  [params.style]
+    darkestColor = "#642210"
+    darkColor = "#373737"
+    lightColor = "#d6d6d6"
+    lightestColor = "#d3d3d3"
+    primaryColor = "#ffffff"
