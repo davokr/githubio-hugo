@@ -34,6 +34,10 @@ paginate = 8
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/david-kreymerman-b8662a11/"
   [[params.social]]
+    icon = "instagram"
+    name = "Instagram"
+    url = "https://instagram.com/davokr"
+  [[params.social]]
     icon = "mail"
     name = "E-Mail"
     url = "mailto:david.kreymerman@live.com"
