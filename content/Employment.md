@@ -1,7 +1,7 @@
 ---
 title: "Employment"
 #date: 2020-09-15T11:30:03+00:00
-author: " "
+author: "Dave Kreymerman"
 ---
 ## Certifications
 
@@ -12,6 +12,7 @@ author: " "
 
 ## Senior Cloud Architect September 2017 – Present
 #### *Redwood Living, Independence, OH*
+<!--
 - Azure Administration including Azure Resource Manager (ARM), VNets, VPN Gateways, IaaS Compute, PaaS App Services, Identity Governance, Azure AD, Azure SQL, Azure Automation, and others
 - Performed full infrastructure replacement
 - Implemented a new ITSM for use by several departments to facilitate a more streamlined and scalable service management
@@ -31,10 +32,12 @@ author: " "
 - Migrated from Exchange 2010 to Exchange Online/Office365 Hybrid
 - End-user training and best practice documentation
 - Upgraded Operating System deployment process from Ghost to self-service Windows 10 Autopilot
+-->
 
 ## Technical Operations Engineer March 2017 – September 2017
-#### Harley-Davidson Dealer Systems, Valley View, OH
+#### *Harley-Davidson Dealer Systems, Valley View, OH*
 
+<!--
 - Upgraded Operating System deployment process from Ghost to Microsoft Deployment Toolkit
 - Application discovery, patch management, and deployment via Dell Kace
 - Administration of Active Directory, Veeam Backup and Replication, Office365, SharePoint, F5 Local Traffic Managers, and VMWare
@@ -43,10 +46,12 @@ author: " "
 - Wrote PowerShell scripts for day to day management, as well as at request
 - Created fully automated Zero Touch Installations for customer-based application servers
 - Led Windows 7 to Windows 10 PC refresh
+-->
 
 ## Level 3 Senior Server Engineer November 2014 – March 2017
-#### AmTrust Financial (a Fortune 500 Company), Cleveland, OH
+### *AmTrust Financial (a Fortune 500 Company), Cleveland, OH*
 
+<!--
 - Administered multiple Active Directory forests/domains of many different functional levels
 - Wrote PowerShell scripts for day to day management, as well as at request
 - Co-led multi-site Active-Active highly available upgrade of Exchange 2010 to Exchange 2013
@@ -65,18 +70,19 @@ author: " "
 - Deployed System Center Virtual Machine Manager and Orchestrator 2012 R2
 - Upgraded System Center 2012 R2 installations to 2016
 - F5 Local Traffic Manager and Global Traffic Manager administration
+-->
 
 ## Senior Systems Engineer March 2013 – October 2014
-#### System Care Inc. (a Managed Service Provider), Westlake, OH
+#### *System Care Inc. (a Managed Service Provider), Westlake, OH*
 
 ## Systems Administrator July 2012 – March 2013
-#### Crestwood Management LLC (a Crestwood Financial LLC subsidiary), Beachwood, OH
+#### *Crestwood Management LLC (a Crestwood Financial LLC subsidiary), Beachwood, OH*
 
 ## On-Call Systems Administrator / Server Configuration Expert February 2012 – Present
-#### Magic Micro Computers, Inc. (computer manufacturer), Warrensville Heights, OH
+#### *Magic Micro Computers, Inc. (computer manufacturer), Warrensville Heights, OH*
 
 ## IT Consultant Tier 2 - American IT Solutions July 2011 – June 2012
-#### Ben Venue Laboratories (a Boehringer-Ingelheim company), Bedford, OH
+#### *Ben Venue Laboratories (a Boehringer-Ingelheim company), Bedford, OH*
 
 ## Technical Support Representative June 2009 – July 2011
-#### Magic Micro Computers, Inc. (computer manufacturer), Warrensville Heights, OH
+#### *Magic Micro Computers, Inc. (computer manufacturer), Warrensville Heights, OH*
