@@ -11,25 +11,20 @@ paginate = 8
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
+    identifier = "employment"
+    name = "Employment"
+    url = "/employment/"
     weight = 2
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 3
-  [[menu.main]]
-    identifier = "employment"
-    name = "Employment"
-    url = "/employment/"
-    weight = 3
 
 [params]
   author = "Dave Kreymerman"
   description = "Senior Cloud Architect"
-  menu_item_separator = " - "
+  menu_item_separator = "|"
   [[params.social]]
     icon = "github"
     name = "Github"

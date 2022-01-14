@@ -3,9 +3,6 @@ title: "Employment"
 #date: 2020-09-15T11:30:03+00:00
 author: " "
 ---
-#### [David.Kreymerman@live.com](mailto:David.Kreymerman@live.com)
-#### Mobile [(216) 225-2428](tel:+12162252428)
-
 ## Certifications
 
 - Microsoft Certified: Azure Administrator Associate
