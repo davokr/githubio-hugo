@@ -1,5 +1,5 @@
 #baseURL = "https://example.com"
-baseURL = "https://davokr.github.io/githubio/"
+baseURL = "https://kreymerman.com/"
 title = "Dave Kreymerman"
 theme = "hugo-theme-m10c"
 paginate = 8
