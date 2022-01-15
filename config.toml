@@ -96,21 +96,22 @@ enable = true
 expire_days = 2
 
 # social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
 
 [[params.social]]
-icon = "ti-instagram"
-URL = "#"
+icon = "fa fa-instagram"
+URL = "https://instagram.com/davokr"
 
 [[params.social]]
-icon = "ti-github"
-URL = "#"
+icon = "fa fa-github"
+URL = "https://github.com/davokr"
 
 [[params.social]]
-icon = "ti-linkedin"
-URL = "#"
+icon = "fa fa-linkedin"
+URL = "https://www.linkedin.com/in/davokr"
+
+[[params.social]]
+icon = "fa fa-telegram"
+URL = "https://www.linkedin.com/in/davokr"
 
 #[[params.social]]
 #icon = "ti-cloud-down"
