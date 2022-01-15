@@ -103,7 +103,7 @@ $(window).on('load', function () {
 		dots: true,
 		infinite: true,
 		speed: 300,
-		slidesToShow: 2,
+		slidesToShow: 1,
 		arrows: false,
 		autoplay: true,
 		autoplayspeed: 10000,
