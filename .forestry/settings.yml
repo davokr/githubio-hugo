@@ -17,7 +17,7 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: content/author
   label: Author (en)
   create: documents
   match: "**/*"
@@ -26,12 +26,12 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data
+  path: data
   label: Homepage
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/i18n
+  path: i18n
   label: i18n
   create: documents
   match: "**/*"
@@ -42,6 +42,7 @@ sections:
   label: Configuration
   create: all
   match: "*.toml"
+  exclude: netlify.toml
   new_doc_ext: toml
 upload_dir: exampleSite/static/images
 public_path: "/images"
