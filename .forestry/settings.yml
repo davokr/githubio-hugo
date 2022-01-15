@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: content/blog
   label: Post (en)
   create: documents
   match: "**/*"
