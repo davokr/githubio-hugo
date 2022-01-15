@@ -1,0 +1,164 @@
+# banner
+banner:
+  title : "Hi! My name is <br>Dave Kreymerman"
+
+# about
+about:
+  enable : true
+  content : "When it comes to things that run on some sort of electricity, I'm fairly good at figuring them out. Brad Neff and John Nelson are often quite jealous of me."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : false
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Senior Cloud Architect"
+      company : "Redwood Living, Inc."
+      duration : "September 2017 – Present"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Technical Operations Engineer"
+      company : "Harley-Davidson Dealer Systems"
+      duration : "March 2017 – September 2017"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Level 3 Senior Server Engineer November"
+      company : "Amtrust Financial"
+      duration : "November 2014 – March 2017"
+
+# education
+education:
+  enable : false
+  title : "Education"
+  item:
+    - title : "Marters in UX Design"
+      year : "2006"
+      academy : "Masassusets Institute of Technology"
+
+# service
+service:
+  enable : false
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : false
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : true
+  title : "Testimonials"
+  item:
+    - name : "Elina"
+      image : "images/testimonial/Elina.png"
+      designation : "Dave's Mom"
+      content : "Absolutely the best, couldn't ask for better."
+      quote : "10/10"
+      
+    - name : "Ryann Merolla"
+      image : "images/testimonial/ryann.png"
+      designation : "Dave's Girlfriend"
+      content : "Just can't get enough"
+      quote : "He's literally amazing"
+      
+    - name : "John Nelson"
+      image : "images/testimonial/john.png"
+      designation : "Dave's Best Friend"
+      quote : "Ew Dave's gross"
+      content : "Definitely better than me, I've never looked up to someone so much"
+
+    - name : "Thomas Belinski"
+      image : "images/duck.png"
+      designation : "Some old guy"
+      content : "He's like some sort of genius"
+      quote : "Shocking"
+
+    - name : "Brad Neff"
+      image : "images/duck.png"
+      designation : "Dave's nemesis"
+      content : "He says so many words, and I just don't understand them some times."
+      quote : "...the most beautiful creature..."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
