@@ -5,6 +5,12 @@ VERSION: Versoin Number
 -------------------------------------------------------------------*/
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400";
 
+.responsive {
+  width: 80%;
+  max-width: 400px;
+  height: auto;
+}
+
 .fa {
   padding: 35%;
   padding-left: 35%;

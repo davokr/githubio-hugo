@@ -2,6 +2,9 @@
 
 {{ partial "page-title.html" . }}
 
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 {{ if site.Params.map.enable }}
 <section class="section pb-0">
   <div class="container">
@@ -28,7 +31,7 @@
         <h3 class="section-title">Feel free to <s>stalk</s> follow me on any of the below platforms</h3>
       </div>
       <div class="col-12">
-        <ul class="list-inline ">
+        <ul class="list-inline text-center">
           {{ range site.Params.social }}
           <li class="list-inline-item"><a href="{{.URL}}"><i class="{{.icon}}"></i></a></li>
           {{ end }}

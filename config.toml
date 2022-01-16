@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://davokr.com"
+baseURL = "http://192.168.1.5:1313"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -99,18 +99,22 @@ expire_days = 2
 
 [[params.social]]
 icon = "fa fa-instagram"
+icon2 = "ti-instagram"
 URL = "https://instagram.com/davokr"
 
 [[params.social]]
 icon = "fa fa-github"
+icon2 = "ti-github"
 URL = "https://github.com/davokr"
 
 [[params.social]]
 icon = "fa fa-linkedin"
+icon2 = "ti-linkedin"
 URL = "https://www.linkedin.com/in/davokr"
 
 [[params.social]]
 icon = "fa fa-telegram"
+icon2 = "ti-location-arrow"
 URL = "https://www.linkedin.com/in/davokr"
 
 #[[params.social]]

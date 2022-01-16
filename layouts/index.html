@@ -39,7 +39,7 @@
     <!-- social icon -->
     <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
       {{ range site.Params.social }}
-      <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
+      <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon2}}"></i></a></li>
       {{ end }}
     </ul>
     <!-- /social icon -->
@@ -226,7 +226,7 @@
           <div class="text-center testimonial-content">
             <i class="text-white icon mb-4 d-inline-block">{{ .quote }}</i><i class="text-white icon mb-4 d-inline-block"></i>
             <p class="text-white mb-4">{{.content | markdownify}}</p>
-            <img class="rounded-circle mb-4 d-inline-block" src="{{.image | absURL }}" alt="client-image" height="400">
+            <img class="rounded-circle mb-4 d-inline-block responsive" src="{{.image | absURL }}" alt="client-image">
             <h4 class="text-white">{{.name }}</h4>
             <h6 class="text-light mb-4">{{ .designation }}</h6>
           </div>
@@ -235,12 +235,12 @@
       </div>
     </div>
     <!-- bg shapes -->
-    <img src="{{`images/backgrounds/map.png` | relURL }}" alt="map" class="img-fluid bg-map">
+    <!-- <img src="{{`images/backgrounds/map.png` | relURL }}" alt="map" class="img-fluid bg-map">
     <img src="{{`images/illustrations/dots-group-v.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-1">
     <img src="{{`images/illustrations/leaf-orange.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-2">
     <img src="{{`images/illustrations/dots-group-sm.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-3">
     <img src="{{`images/illustrations/leaf-pink-round.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-4">
-    <img src="{{`images/illustrations/leaf-cyan.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-5">
+    <img src="{{`images/illustrations/leaf-cyan.svg` | relURL }}" alt="bg-shape" class="img-fluid bg-shape-5"> -->
   </section>
   <!-- /testimonial -->
   {{ end }}
