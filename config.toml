@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://192.168.1.5:1313"
+baseURL = "https://davokr.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
